@@ -1,0 +1,6 @@
+{
+"pip_requirements": {
+    "fileMatch": ["requirements.txt", "requirements.in"]
+  },
+"lockFileMaintenance": { "enabled": true }
+}
